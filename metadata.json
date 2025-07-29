@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Scene Generator",
+  "description": "An application to automatically generate a video scene plan from an audio file. It transcribes the audio, breaks it into sections, and suggests visual elements (images, text, edits) for each section using AI. Users can then customize the visuals and play a preview.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
